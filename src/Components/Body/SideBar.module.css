@@ -1,0 +1,18 @@
+.sideBarStyle {
+  border: 1px solid grey;
+  width: 10rem;
+  height: 14rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.sideBarUlStyle {
+  padding: 0;
+  margin: 0;
+}
+.sideBarLiStyle {
+  text-decoration: none;
+  list-style: none;
+  border-top: 1px solid grey;
+  padding: 1rem;
+}

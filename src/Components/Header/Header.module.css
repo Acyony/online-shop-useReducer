@@ -1,0 +1,13 @@
+.flex_bar {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    border-top: 1px solid black;
+    padding: 2rem;
+}
+
+.link {
+    margin: 1rem;
+    text-decoration: none;
+    color: black;
+}
